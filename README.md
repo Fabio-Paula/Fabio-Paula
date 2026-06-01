@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header&reversal=false" width="100%"/>
 
-### Sobre mim
+<big><strong>Sobre mim</strong></big>
 
 Desenvolvedor Full Stack com experiência em construção de sistemas empresariais robustos — de APIs RESTful e microserviços a interfaces modernas com React. Tenho foco em qualidade de código, arquitetura escalável e entrega de produto real.
 
@@ -26,7 +26,7 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header&reversal=false" width="100%"/>
 
-### Stack Principal
+<big><strong>Stack Principal</strong></big>
 
 **Back-end**
 
@@ -53,7 +53,7 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header&reversal=false" width="100%"/>
 
-### Projetos em Destaque
+<big><strong>Projetos em Destaque</strong></big>
 
 | Projeto | Descrição | Stack |
 |---|---|---|
