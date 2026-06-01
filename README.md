@@ -63,12 +63,10 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 <div align="center">
 
-<a href="https://github.com/Fabio-Paula">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fabio-Paula&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true&rank_icon=github" />
-</a>
-<a href="https://github.com/Fabio-Paula?tab=repositories">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Paula&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio-Paula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)](https://github.com/Fabio-Paula)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Paula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Fabio-Paula?tab=repositories)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabio-Paula&theme=tokyonight&hide_border=true&locale=pt_BR)](https://github.com/Fabio-Paula)
 
 </div>
 
