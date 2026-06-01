@@ -2,7 +2,7 @@
 
 # Fabio Roberto de Paula
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%C2%B7+React+%C2%B7+TypeScript;Apaixonado+por+c%C3%B3digo+limpo;Construindo+o+FinanceAI+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%C2%B7+React+%C2%B7+TypeScript;Construindo+o+FinanceAI)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabio-roberto-de-paula)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabio-Paula)
