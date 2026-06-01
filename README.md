@@ -59,5 +59,5 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 |---|---|---|
 | [FinanceAI](https://github.com/Fabio-Paula/FinanceAI) | Plataforma de gestão financeira com IA integrada | NestJS · React · AI |
 | [Gerenciador de Contratos](https://github.com/Fabio-Paula) | Sistema completo para gestão de contratos empresariais | NestJS · React · PostgreSQL |
-| [SIGEA](https://github.com/Fabio-Paula) | Sistema de gestão com módulos de relatórios e dashboards | React · Chart.js |
+| Confidencial | Sistema de gestão com módulos de relatórios e dashboards | React · Chart.js |
 | [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Jogo desenvolvido como Trabalho de Conclusão de Curso | C# |
