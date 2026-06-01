@@ -57,8 +57,11 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 | [SIGEA](https://github.com/Fabio-Paula) | Sistema de gestão com módulos de relatórios e dashboards | React · Chart.js |
 | [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Jogo desenvolvido como Trabalho de Conclusão de Curso | C# |
 
----
+## Estatísticas
 
+[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-Paula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <div align="center">
 
