@@ -18,13 +18,17 @@
 
 ## Sobre mim
 
-<br><br>
+<br>
+
+<table border="0" cellpadding="10"><tr><td>
 
 Desenvolvedor Full Stack com experiência em construção de sistemas empresariais robustos — de APIs RESTful e microserviços a interfaces modernas com React. Tenho foco em qualidade de código, arquitetura escalável e entrega de produto real.
 
 Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira com inteligência artificial integrada.
 
-<br><br>
+</td></tr></table>
+
+<br>
 
 ## Stack Principal
 
