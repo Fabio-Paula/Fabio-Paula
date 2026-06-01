@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fábio Roberto de Paula
+# Fabio Roberto de Paula
 
 **Full Stack Developer** · NestJS · React · TypeScript
 
@@ -58,15 +58,6 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 | [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Jogo desenvolvido como Trabalho de Conclusão de Curso | C# |
 
 ---
-
-## Estatísticas
-
-<a href="https://github.com/Fabio-Paula">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabio-Paula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-</a>
-<a href="https://github.com/Fabio-Paula?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio-Paula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
-</a>
 
 ---
 
