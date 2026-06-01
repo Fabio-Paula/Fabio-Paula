@@ -24,15 +24,15 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,docker,swagger" height="30" />
+<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,docker,swagger" height="40" />
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,socketio" height="30" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,socketio" height="40" />
 
 **Outros**
 
-<img src="https://skillicons.dev/icons?i=cs" height="30" />
+<img src="https://skillicons.dev/icons?i=cs" height="40" />
 
 ---
 
