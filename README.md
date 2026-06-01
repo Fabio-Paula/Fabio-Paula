@@ -1,6 +1,6 @@
 <div align="right">
 
-<img src="https://komarev.com/ghpvc/?username=Fabio-Paula&color=8B5CF6&labelColor=21262D&style=flat&label=visualiza%C3%A7%C3%B5es" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFabio-Paula&count_bg=%238B5CF6&title_bg=%2321262D&icon=&icon_color=%23ffffff&title=visualiza%C3%A7%C3%B5es&edge_flat=false" />
 
 </div>
 
