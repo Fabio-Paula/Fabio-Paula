@@ -59,7 +59,7 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 ## Estatísticas
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-Paula)](https://github.com/anuraghazra/github-readme-stats)
+[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-Paula&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
