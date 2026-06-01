@@ -1,6 +1,6 @@
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=Fabio-Paula&color=58A6FF&style=for-the-badge&label=visualiza%C3%A7%C3%B5es)
+![](https://komarev.com/ghpvc/?username=Fabio-Paula&color=58A6FF&style=flat-square&label=visualiza%C3%A7%C3%B5es)
 
 </div>
 
@@ -30,26 +30,26 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 **Back-end**
 
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
+![NestJS](https://img.shields.io/badge/NestJS-30363d?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=2496ED)
+![Swagger](https://img.shields.io/badge/Swagger-30363d?style=flat-square&logo=swagger&logoColor=85EA2D)
 
 **Front-end**
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io)
+![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-30363d?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-30363d?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-30363d?style=flat-square&logo=vite&logoColor=646CFF)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-30363d?style=flat-square&logo=shadcnui&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-30363d?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Outros**
 
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
+![C#](https://img.shields.io/badge/C%23-30363d?style=flat-square&logo=dotnet&logoColor=512BD4)
 
 ---
 
