@@ -71,10 +71,3 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabio-Paula&theme=tokyonight" height=150 />
 </a>
 
----
-
-<div align="center">
-
-*"Código bom é aquele que resolve o problema hoje e não vira problema amanhã."*
-
-</div>
