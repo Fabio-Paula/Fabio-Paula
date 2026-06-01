@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header&reversal=false" width="100%"/>
 
 ## Sobre mim
 
@@ -24,7 +24,7 @@ Desenvolvedor Full Stack com experiência em construção de sistemas empresaria
 
 Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira com inteligência artificial integrada.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header&reversal=false" width="100%"/>
 
 ## Stack Principal
 
@@ -51,7 +51,7 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-21262D?style=flat&logo=dotnet&logoColor=512BD4" /></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1&section=header&reversal=false" width="100%"/>
 
 ## Projetos em Destaque
 
