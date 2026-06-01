@@ -63,7 +63,7 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 <div align="center">
 
-![Snake animation](https://github.com/Fabio-Paula/Fabio-Paula/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Fabio-Paula/Fabio-Paula/output/github-contribution-grid-snake.svg)
 
 </div>
 
