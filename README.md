@@ -58,16 +58,5 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 | [SIGEA](https://github.com/Fabio-Paula) | Sistema de gestão com módulos de relatórios e dashboards | React · Chart.js |
 | [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Jogo desenvolvido como Trabalho de Conclusão de Curso | C# |
 
-## Estatísticas
-
 ![](https://komarev.com/ghpvc/?username=Fabio-Paula&color=58A6FF&style=flat-square&label=views)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabio-Paula&theme=tokyonight)](https://github.com/Fabio-Paula)
-
-<a href="https://github.com/Fabio-Paula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabio-Paula&theme=tokyonight" height=150 />
-</a>
-<a href="https://github.com/Fabio-Paula?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabio-Paula&theme=tokyonight" height=150 />
-</a>
 
