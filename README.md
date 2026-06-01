@@ -1,3 +1,9 @@
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=Fabio-Paula&color=58A6FF&style=flat-square&label=visualiza%C3%A7%C3%B5es)
+
+</div>
+
 <div align="center">
 
 # Fabio Roberto de Paula
@@ -56,5 +62,4 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 | [SIGEA](https://github.com/Fabio-Paula) | Sistema de gestão com módulos de relatórios e dashboards | React · Chart.js |
 | [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Jogo desenvolvido como Trabalho de Conclusão de Curso | C# |
 
-![](https://komarev.com/ghpvc/?username=Fabio-Paula&color=58A6FF&style=flat-square&label=views)
 
