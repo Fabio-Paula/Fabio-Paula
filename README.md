@@ -1,6 +1,6 @@
 <div align="right">
 
-<img src="https://komarev.com/ghpvc/?username=Fabio-Paula&color=21262D&style=flat&label=visualiza%C3%A7%C3%B5es" />
+<img src="https://komarev.com/ghpvc/?username=Fabio-Paula&color=8B5CF6&labelColor=21262D&style=flat&label=visualiza%C3%A7%C3%B5es" />
 
 </div>
 
