@@ -24,15 +24,15 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 **Back-end**
 
-<img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" height="40" title="NestJS" />&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" title="TypeScript" />&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" title="Node.js" />&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" title="PostgreSQL" />&nbsp;<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" title="Docker" />&nbsp;<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40" height="40" title="Swagger" />&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="40" height="40" title="JWT" />
+[![Back-end](https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,docker,swagger)](https://skillicons.dev)
 
 **Front-end**
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" title="React" />&nbsp;<img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" title="Vite" />&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" title="Tailwind CSS" />&nbsp;<img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="40" height="40" title="shadcn/ui" />&nbsp;<img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="40" height="40" title="Socket.io" />&nbsp;<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40" title="TanStack" />&nbsp;<img src="https://cdn.simpleicons.org/keycloak/008AAA" width="40" height="40" title="Keycloak" />
+[![Front-end](https://skillicons.dev/icons?i=react,vite,tailwind,socketio)](https://skillicons.dev)
 
 **Outros**
 
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40" height="40" title="C#" />
+[![Outros](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ---
 
