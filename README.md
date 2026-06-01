@@ -24,20 +24,20 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,docker,swagger" />
-<img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" title="TypeORM" />
-<img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="48" height="48" title="JWT" />
+<img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres,docker,swagger" height="35" />
+<img src="https://cdn.simpleicons.org/typeorm/FE0803" width="35" height="35" title="TypeORM" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="35" height="35" title="JWT" />
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,socketio" />
-<img src="https://cdn.simpleicons.org/shadcnui/white" width="48" height="48" title="shadcn/ui" />
-<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" title="TanStack" />
-<img src="https://cdn.simpleicons.org/keycloak/008AAA" width="48" height="48" title="Keycloak" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,socketio" height="35" />
+<img src="https://cdn.simpleicons.org/shadcnui/white" width="35" height="35" title="shadcn/ui" />
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="35" height="35" title="TanStack" />
+<img src="https://cdn.simpleicons.org/keycloak/008AAA" width="35" height="35" title="Keycloak" />
 
 **Outros**
 
-<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=cs" height="35" />
 
 ---
 
