@@ -1,6 +1,6 @@
 <div align="right">
 
-<img src="https://komarev.com/ghpvc/?username=Fabio-Paula&color=8B5CF6&labelColor=0D1117&style=flat&label=visualiza%C3%A7%C3%B5es" />
+<img src="https://komarev.com/ghpvc/?username=Fabio-Paula&color=8B5CF6&labelColor=0D1117&style=flat&label=views" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 # Fabio Roberto de Paula
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%C2%B7+React+%C2%B7+TypeScript;Construindo+o+FinanceAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%C2%B7+React+%C2%B7+TypeScript;Building+FinanceAI)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/fabio-roberto-de-paula-3b76aa248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://github.com/Fabio-Paula" target="_blank"><img src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
@@ -16,13 +16,13 @@
 
 </div>
 
-## Sobre mim
+## About me
 
-Desenvolvedor Full Stack com experiência em construção de sistemas empresariais robustos — de APIs RESTful e microserviços a interfaces modernas com React. Tenho foco em qualidade de código, arquitetura escalável e entrega de produto real.
+Full Stack Developer with experience building robust enterprise systems — from RESTful APIs and microservices to modern React interfaces. Focused on code quality, scalable architecture, and real product delivery.
 
-Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira com inteligência artificial integrada.
+Currently working on **FinanceAI**, a financial management platform with integrated artificial intelligence.
 
-## Stack Principal
+## Tech Stack
 
 <br>
 
@@ -45,19 +45,19 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 <a href="https://ui.shadcn.com" target="_blank"><img src="https://img.shields.io/badge/shadcn/ui-21262D?style=flat&logo=shadcnui&logoColor=ffffff" /></a>
 <a href="https://socket.io" target="_blank"><img src="https://img.shields.io/badge/Socket.io-21262D?style=flat&logo=socketdotio&logoColor=ffffff" /></a>
 
-**Outros**
+**Other**
 
 <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-21262D?style=flat&logo=dotnet&logoColor=512BD4" /></a>
 
 <br>
 
-## Projetos em Destaque
+## Featured Projects
 
 <br>
 
-| Projeto | Descrição | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [FinanceAI](https://github.com/Fabio-Paula/FinanceAI) | Plataforma de gestão financeira com IA integrada | NestJS · React · AI |
-| [Gerenciador de Contratos](https://github.com/Fabio-Paula) | Sistema completo para gestão de contratos empresariais | NestJS · React · PostgreSQL |
-| [Sistema de Gestão](https://github.com/Fabio-Paula) | Sistema de gestão com módulos de relatórios e dashboards | React · Chart.js |
-| [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Jogo desenvolvido como Trabalho de Conclusão de Curso | C# |
+| [FinanceAI](https://github.com/Fabio-Paula/FinanceAI) | Financial management platform with integrated AI | NestJS · React · AI |
+| [Contract Manager](https://github.com/Fabio-Paula) | Complete system for enterprise contract management | NestJS · React · PostgreSQL |
+| [Management System](https://github.com/Fabio-Paula) | Management system with reporting and dashboard modules | React · Chart.js |
+| [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Game developed as a Final Course Project | C# |
