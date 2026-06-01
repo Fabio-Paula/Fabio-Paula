@@ -18,11 +18,17 @@
 
 ## Sobre mim
 
+<br>
+
 Desenvolvedor Full Stack com experiência em construção de sistemas empresariais robustos — de APIs RESTful e microserviços a interfaces modernas com React. Tenho foco em qualidade de código, arquitetura escalável e entrega de produto real.
 
 Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira com inteligência artificial integrada.
 
+<br>
+
 ## Stack Principal
+
+<br>
 
 **Back-end**
 
@@ -47,7 +53,11 @@ Atualmente trabalhando no **FinanceAI**, uma plataforma de gestão financeira co
 
 <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-21262D?style=flat&logo=dotnet&logoColor=512BD4" /></a>
 
+<br>
+
 ## Projetos em Destaque
+
+<br>
 
 | Projeto | Descrição | Stack |
 |---|---|---|
