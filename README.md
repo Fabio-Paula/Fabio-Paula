@@ -20,7 +20,9 @@
 
 Full Stack Developer with experience building robust enterprise systems — from RESTful APIs and microservices to modern React interfaces. Focused on code quality, scalable architecture, and real product delivery.
 
-Currently working on **FinanceAI**, a financial management platform with integrated artificial intelligence, and **Cortti**, an appointment scheduling platform for barbershops, salons, and beauty services.
+Currently working on **FinanceAI**, a financial management platform with integrated artificial intelligence.
+
+Also building **Cortti**, an appointment scheduling platform for barbershops, salons, and beauty services.
 
 ## Tech Stack
 
