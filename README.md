@@ -61,5 +61,5 @@ Currently working on **FinanceAI**, a financial management platform with integra
 | [FinanceAI](https://github.com/Fabio-Paula/FinanceAI) | Financial management platform with integrated AI | NestJS · React · AI |
 | [Contract Manager](https://github.com/Fabio-Paula) | Complete system for enterprise contract management | NestJS · React · PostgreSQL |
 | [Management System](https://github.com/Fabio-Paula) | Management system with reporting and dashboard modules | React · Chart.js |
-| [Cortti](https://github.com/Fabio-Paula) | — | — |
+| [Cortti](https://github.com/Fabio-Paula) | Appointment scheduling platform for barbershops, salons, and beauty services | NestJS · React Native · PostgreSQL |
 | [TCC-ProjectGame](https://github.com/Fabio-Paula/Tcc-ProjectGame) | Game developed as a Final Course Project | C# |
