@@ -20,7 +20,7 @@
 
 Full Stack Developer with experience building robust enterprise systems — from RESTful APIs and microservices to modern React interfaces. Focused on code quality, scalable architecture, and real product delivery.
 
-Currently working on **FinanceAI**, a financial management platform with integrated artificial intelligence.
+Currently working on **Entrafy**, a financial management platform with integrated artificial intelligence.
 
 Also building **Cortti**, an appointment scheduling platform for barbershops, salons, and beauty services.
 
@@ -60,7 +60,7 @@ Also building **Cortti**, an appointment scheduling platform for barbershops, sa
 
 | Project | Description | Stack |
 |---|---|---|
-| [FinanceAI](https://github.com/Fabio-Paula/FinanceAI) | Financial management platform with integrated AI | NestJS · React · AI |
+| [Entrafy](https://github.com/Fabio-Paula/Entrafy) | Financial management platform with integrated AI | NestJS · React · AI |
 | [Contract Manager](https://github.com/Fabio-Paula) | Complete system for enterprise contract management | NestJS · React · PostgreSQL |
 | [Management System](https://github.com/Fabio-Paula) | Management system with reporting and dashboard modules | React · Chart.js |
 | [Cortti](https://github.com/Fabio-Paula) | Appointment scheduling platform for barbershops, salons, and beauty services | NestJS · React Native · PostgreSQL |
